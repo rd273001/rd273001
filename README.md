@@ -35,6 +35,6 @@ I will be happy to connect on🤝☺️:
 ---
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/get110)   <br/><br/>
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/get110?country.x=IN&locale.x=en_GB)   <br/><br/>
 
   
