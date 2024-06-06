@@ -1,8 +1,6 @@
-<div align="right">
-
 [![](https://visitcount.itsvg.in/api?id=rd273001&icon=5&color=6)](https://visitcount.itsvg.in)
 
-</div>
+---
 
 # 👨🏻‍💻 About Me:
 Hi there 👋 I am Ravi, a Passionate Software Engineer with over 6 months of work experience as a Software Engineer Intern where my role was React Native Developer, where I had the opportunity to build and implement the designs and features into pixel-perfect UIs and optimised code, which allowed me to hone my skills in Mobile App Development and primarily Frontend Development.<br/><br/>🔭 I’m currently working on MERN Stack and React Native technologies to be proficient in building production-level websites and apps.<br/>👯 I’m looking to collaborate on exciting and challenging projects to contribute and learn.<br/>🌱 I’m currently learning 3D animations and effects to create the best visual impact on the User.   <br/><br/>
@@ -30,11 +28,11 @@ I will be happy to connect on🤝☺️:
 ![](https://github-contributor-stats.vercel.app/api?username=rd273001&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)   <br/><br/>
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>   <br/><br/>
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/get110?country.x=IN&locale.x=en_GB)   <br/><br/>
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/get110?country.x=IN&locale.x=en_GB)
 
   
