@@ -28,7 +28,7 @@ I will be happy to connect on🤝☺️:
 [![](https://github-contributor-stats.vercel.app/api?username=rd273001&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)](#)   <br/><br/>
 
 ## 😂 Random Dev Meme
-[<img src='https://memer-new.vercel.app/' style="height: 310px;"/>](#)   <br/><br/>
+[<img src='https://memer-new.vercel.app/' style="height: 310px;"/>](#)
 
 # 🙏 Thank You
 [<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Nycjh0NmV1dmFlZDJhZXJhYWJrMnhwdGFhcmx3emJ5aGxraTIycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GoVUxIcNPjBmejIZ9q/giphy-downsized-large.gif' style="height: 350px;" />](#)
