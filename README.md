@@ -2,7 +2,7 @@
 
 ---
 
-[<img src="https://i.ibb.co/tzPYysM/github-header-image-6.png" alt="Header" style="width: 100%;" alt="Header">](#)
+[<img src="https://i.ibb.co/tzPYysM/github-header-image-6.png" style="width: 100%;" alt="Header">](#)
 
 # 👨🏻‍💻 Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="30px" height="30px" />
 I'm an Aspiring Software Engineer with over 6 months of work experience in the role of Software Engineer Intern, specializing as a React Native Developer, I was responsible for successfully transforming Figma mockups/designs and features into pixel-perfect and responsive UIs through writing optimized code in the process, which allowed me to hone my skills in Mobile App Development and primarily Frontend Development.<br/><br/>🔭 I’m currently working on MERN Stack and React Native technologies to be proficient in building production-level websites and apps.<br/>👯 I’m looking to collaborate on exciting and challenging projects to contribute and learn.<br/>🌱 I’m currently learning 3D animations and effects using GSAP, three.js, etc to create the best visual impact on the User.   <br/>
