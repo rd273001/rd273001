@@ -1,11 +1,11 @@
-[![Profile Views](https://visitcount.itsvg.in/api?id=rd273001&icon=5&color=6)](#)
+<!--[![Profile Views](https://visitcount.itsvg.in/api?id=rd273001&icon=5&color=6)](#)  -->
 
----
+<!--  ---  -->
 
 [<img src="https://i.ibb.co/tzPYysM/github-header-image-6.png" style="width: 100%;" alt="Header">](#)
 
 # 👨🏻‍💻 Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="30px" height="30px" />
-I'm an Aspiring Software Engineer, currently working as a React Native Developer at [DFC](https://dfc.org.in/). I've over 6+ months of professional experience as a Software Engineer Intern working on hybrid Mobile App Development using React Native & 1+ year of personal hands-on experience in Mobile App & Web Development, a knack for creating responsive & intuitive UIs, and keen to integrate frontend and backend technologies for seamless user experiences. <br/><br/>🔭 I’m currently working full-time on Mobile App Development using React Native at [DFC](https://dfc.org.in/).<br/>🧑‍💻I'm also contributing part-time to Developing Frontend for [Inkyst](https://inkyst.com).<br/>👯 I’m looking to collaborate on exciting and challenging projects to contribute and learn.<br/>🌱 Enthusiastic about exploring 3D animations and effects using GSAP, three.js, etc to create the best visual impact on the User.   <br/>
+I'm an Aspiring Software Engineer, currently working as a React Native Developer at [DFC](https://dfc.org.in/). I've 8+ months of professional experience in hybrid Mobile App Development using React Native & 1+ years of personal hands-on experience in Web & Mobile App Development, a knack for creating responsive & intuitive UIs, and keen to integrate frontend and backend technologies for seamless user experiences. <br/><br/>🔭 I’m currently working full-time for developing fully redesigned version of old [DFC](https://play.google.com/store/apps/details?id=com.qkclass.dfc&pcampaignid=web_share) app using React Native.<br/>🧑‍💻 I'm also contributing part-time to Developing Frontend for [Inkyst](https://inkyst.com).<br/>👯 I’m looking to collaborate on exciting and challenging projects to contribute and learn.<br/>🌱 Enthusiastic about exploring 3D animations and effects using GSAP, three.js, etc to create the best visual impact on the User.   <br/>
 
 ## 📝Resume → &nbsp; [<img src="https://github.com/user-attachments/assets/79bfe427-b5d5-43b6-b18a-abd35e31c9cd" height="24px" width="30px"/>](https://drive.google.com/file/d/1h2enFSwk96hrasS8OS0RrPqv4mlHfFaE/view?usp=drive_link) &nbsp; [<img src="https://github.com/user-attachments/assets/dc3c72e4-2630-441c-91f3-dcca55d2feea" height="24px" />](https://drive.google.com/uc?export=download&id=1h2enFSwk96hrasS8OS0RrPqv4mlHfFaE) <br/><br/>
 
