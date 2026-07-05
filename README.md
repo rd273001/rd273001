@@ -40,6 +40,3 @@ I will be happy☺️ to connect🤝 on:
 [<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Nycjh0NmV1dmFlZDJhZXJhYWJrMnhwdGFhcmx3emJ5aGxraTIycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GoVUxIcNPjBmejIZ9q/giphy-downsized-large.gif' style="height: 350px;" />](#)
 
 ---
-
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/get110?country.x=IN&locale.x=en_GB)   <br/><br/>
