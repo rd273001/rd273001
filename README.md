@@ -1,4 +1,4 @@
-<!--[![Profile Views](https://visitcount.itsvg.in/api?id=rd273001&icon=5&color=6)](#)  -->
+<!--[![Profile Views](https://visitcount.itsvg.in/api?id=rd273001&icon=5&color=6)](#)
 
 <!--  ---  -->
 
@@ -40,3 +40,5 @@ I will be happy☺️ to connect🤝 on:
 [<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Nycjh0NmV1dmFlZDJhZXJhYWJrMnhwdGFhcmx3emJ5aGxraTIycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GoVUxIcNPjBmejIZ9q/giphy-downsized-large.gif' style="height: 350px;" />](#)
 
 ---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=rd273001&style=for-the-badge&color=blueviolet)](#)
