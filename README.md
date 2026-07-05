@@ -1,6 +1,4 @@
-<!--[![Profile Views](https://visitcount.itsvg.in/api?id=rd273001&icon=5&color=6)](#)
-
-<!--  ---  -->
+<!--[![Profile Views](https://visitcount.itsvg.in/api?id=rd273001&icon=5&color=6)](#)-->
 
 [<img src="https://i.ibb.co/tzPYysM/github-header-image-6.png" style="width: 100%;" alt="Header">](#)
 
@@ -41,4 +39,4 @@ I will be happy☺️ to connect🤝 on:
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rd273001&style=for-the-badge&color=blueviolet)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=rd273001&base=2000&style=for-the-badge&color=blueviolet)](#)
