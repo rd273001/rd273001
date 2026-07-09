@@ -27,10 +27,8 @@ I will be happy☺️ to connect🤝 on:
 
 ## ✍️ Random Dev Quote
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](#)   <br/><br/>
-
 <!--## 🔝 Top Contributed Repo
 [![](https://github-contributor-stats.vercel.app/api?username=rd273001&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)](#)   <br/><br/>
-
 <!--## 😂 Random Dev Meme
 [<img src='https://memer-new.vercel.app/' style="height: 310px;"/>](#)   <br/><br/>-->
 
