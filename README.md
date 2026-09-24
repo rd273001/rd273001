@@ -3,7 +3,7 @@
 [<img src="https://i.ibb.co/tzPYysM/github-header-image-6.png" style="width: 100%;" alt="Header">](#)
 
 # 👨🏻‍💻 Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="30px" height="30px" />
-**Software Engineer** specializing in **web and mobile** experiences — 2+ years of professional experience building and maintaining scalable production mobile applications using React.js, React Native, TypeScript, and modern frontend technologies.
+**Software Engineer** specializing in **web and mobile** experiences — 2 years of professional experience building and maintaining scalable production mobile applications using React.js, React Native, TypeScript, and modern frontend technologies.
 I build and own apps at [Dnyandeep Foundation Centre](https://dfc.org.in/) (**Software Engineer 1 · Mobile**): **[DFC](https://play.google.com/store/apps/details?id=com.qkclass.dfc)** (10K+ downloads, Play listing *Dnyandeep Foundation Centre*) and **[AptiBooster](https://play.google.com/store/apps/details?id=com.aptibooster)** (1K+ downloads).
 ### Production focus
 - **DFC** — Led the mobile **revamp** on the existing Play listing (new TypeScript + TanStack Query codebase, onboarding, student/teacher/admin roles). Startup improvements, **deep links**, and **offline** for core flows. **161 MB** base-delivery reduction (Zoom SDK via Dynamic Feature Module); bundle **21.02 MB → 15 MB** (28.6%).
