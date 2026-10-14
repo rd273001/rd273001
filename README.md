@@ -1,6 +1,6 @@
 <!--[![Profile Views](https://visitcount.itsvg.in/api?id=rd273001&icon=5&color=6)](#)-->
-
-[<img src="https://i.ibb.co/tzPYysM/github-header-image-6.png" style="width: 100%;" alt="Header">](#)
+[<img width="1935" height="500" style="width: 100%;" alt="Neon Portfolio Workspace Banner10" src="https://github.com/user-attachments/assets/f05400a3-2376-4b62-9069-e641caee4713" />](#)
+<!--[<img src="https://i.ibb.co/tzPYysM/github-header-image-6.png" style="width: 100%;" alt="Header">](#)-->
 
 # 👨🏻‍💻 Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="30px" height="30px" />
 **Software Engineer** specializing in **web and mobile** experiences — 2+ years of professional experience building and maintaining scalable production mobile applications using React.js, React Native, TypeScript, and modern frontend technologies.
