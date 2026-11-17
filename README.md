@@ -4,9 +4,9 @@
 
 # 👨🏻‍💻 Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="30px" height="30px" />
 **Software Engineer** specializing in **web and mobile** experiences — 2+ years of professional experience building and maintaining scalable production mobile applications using React.js, React Native, Next.js, TypeScript, and modern frontend technologies.
-I built and owned 2 apps at [Dnyandeep Foundation Centre](https://dfc.org.in/) (**Software Engineer 1 · Mobile**): **[DFC](https://play.google.com/store/apps/details?id=com.qkclass.dfc)** (10K+ downloads, Play listing *Dnyandeep Foundation Centre*) and **[AptiBooster](https://play.google.com/store/apps/details?id=com.aptibooster)** (1K+ downloads).
+I independently built and owned 2 apps at [Dnyandeep Foundation Centre](https://dfc.org.in/) (**Software Engineer 1 · Mobile**): **[DFC](https://play.google.com/store/apps/details?id=com.qkclass.dfc)** (10K+ downloads, Play listing *Dnyandeep Foundation Centre*) and **[AptiBooster](https://play.google.com/store/apps/details?id=com.aptibooster)** (1K+ downloads).
 ### Production focus
-- **DFC** — Led the mobile **revamp** on the existing Play listing (new TypeScript + TanStack Query codebase, onboarding, student/teacher/admin roles). Startup improvements, **deep links**, and **offline** for core flows. **161 MB** base-delivery reduction (Zoom SDK via Dynamic Feature Module); bundle **21.02 MB → 15 MB** (28.6%).
+- **DFC** — Led the mobile **revamp** on the existing Play listing (new TypeScript + TanStack Query codebase, onboarding, student/teacher/admin roles). Startup improvements, **deep links**, and **offline** for core flows. **161 MB** base-delivery reduction (Zoom SDK via Dynamic Feature Module); bundle **21.02 MB → 15.9 MB** (24.36%).
 - **AptiBooster** — Built substantially from scratch: live **test client** powers scoring, peer comparison, and analysis; **global search**, subscriptions, HTML + **LaTeX/MathJax** in tests and review.
 - **Release ownership** — features, reviews, Play Store releases, Firebase (Analytics, Crashlytics, Performance), payments & push integrations.
 ### Also
